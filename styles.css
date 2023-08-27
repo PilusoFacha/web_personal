@@ -2,6 +2,7 @@ h1 {
     color: #011126;
     font-size: 40px;
     font-family: 'Chakra Petch', sans-serif;
+    margin: 30px;
 }
 p {
     color:#647345;
@@ -10,4 +11,5 @@ p {
 }
 body {
     background-color: #DCF28D;
+    margin: 20px;
 }
