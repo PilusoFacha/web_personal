@@ -20,7 +20,7 @@ body {
     width: 420px;
     height: 90px;
 
-    background-image: linear-gradient(60deg, #F2F2F2 30%, #F8CCD6, #BCE3F3, #F2F2F2);
+    background-image: linear-gradient(60deg, #F2F2F2 30%, #F8CCD6, #BCE3F3);
     border-end-start-radius: 30px;
     border-end-end-radius: 30px;
     margin: 0px;
